@@ -1,2 +1,2 @@
-# elmag_theory
-Code and report of numerical physics project, numerically solving rectangular 2d laplace equation for arbitrary upper potential.
+# Midterm project - TFY4240 Electromagnetic theory
+Numerical physics project, numerically solving rectangular 2d laplace equation for arbitrary upper potential. Quiver graphs in of derived electric field in report could be scaled down and adjusted in space, the revised plot are given here as .png files.
